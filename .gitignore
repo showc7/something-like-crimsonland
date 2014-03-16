@@ -1,8 +1,10 @@
-*/bin/
-*/obj/
-*/Content/
-*/dll/
+bin/
+obj/
+/Content/
+/dll/
 *.dll
-*/Sprites_v/
+Sprites_v/
 *.png
-.ico
+*.ico
+*.jpg
+*.bmp
